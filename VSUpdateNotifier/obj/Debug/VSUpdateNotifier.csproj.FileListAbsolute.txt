@@ -1,0 +1,17 @@
+C:\Users\hashi\source\repos\ConsoleApp1\Game\bin\Debug\Game.exe.config
+C:\Users\hashi\source\repos\ConsoleApp1\Game\bin\Debug\Game.exe
+C:\Users\hashi\source\repos\ConsoleApp1\Game\bin\Debug\Game.pdb
+C:\Users\hashi\source\repos\ConsoleApp1\Game\obj\Debug\Game_MarkupCompile.cache
+C:\Users\hashi\source\repos\ConsoleApp1\Game\obj\Debug\Game_MarkupCompile.lref
+C:\Users\hashi\source\repos\ConsoleApp1\Game\obj\Debug\Game.g.resources
+C:\Users\hashi\source\repos\ConsoleApp1\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\hashi\source\repos\ConsoleApp1\Game\obj\Debug\VSUpdateNotifier.csproj.GenerateResource.cache
+C:\Users\hashi\source\repos\ConsoleApp1\Game\obj\Debug\VSUpdateNotifier.csproj.CoreCompileInputs.cache
+C:\Users\hashi\source\repos\ConsoleApp1\Game\obj\Debug\Game.exe
+C:\Users\hashi\source\repos\ConsoleApp1\Game\obj\Debug\Game.pdb
+C:\Users\hashi\source\repos\ConsoleApp1\Game\obj\Debug\Views\DesktopCharacter.g.cs
+C:\Users\hashi\source\repos\ConsoleApp1\Game\obj\Debug\Views\MainWindow.g.cs
+C:\Users\hashi\source\repos\ConsoleApp1\Game\obj\Debug\Views\App.g.cs
+C:\Users\hashi\source\repos\ConsoleApp1\Game\obj\Debug\Views\DesktopCharacter.baml
+C:\Users\hashi\source\repos\ConsoleApp1\Game\obj\Debug\Views\MainWindow.baml
+C:\Users\hashi\source\repos\ConsoleApp1\Game\obj\Debug\VsUpdateNotifier.Views.NotifyIconWrapper.resources
